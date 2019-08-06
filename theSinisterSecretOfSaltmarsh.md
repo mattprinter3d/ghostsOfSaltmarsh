@@ -20,9 +20,9 @@ The characters find themselves in the sitting room of Anders Solmor.  Anders exp
 
 ## Scenes
 
-* Small scene description.
-* 
-* 
+* Meet with Anders
+* Travel to the mansion.  Villagers follow until they see the mansion and then leave
+* Explore the mansion.
 * 
 * 
 
