@@ -1,11 +1,9 @@
 #The Sinister Secret of Saltmarsh
 ---
 
-
-
 ## Characters
 
-**Name.** Description.
+**Bryndyl.** - (McKinley).
 
 **Name.** Description.
 
