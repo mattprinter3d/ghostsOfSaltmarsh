@@ -3,13 +3,13 @@
 
 ## Characters
 
-**Bryndyl.** - (McKinley).
+**Bryndyl.** - (McKinley). Female Rock Gnome.  72 years old.  Sage, researcher, knows a lot of lore.  If she doesn't know, she often knows where to obtain it.  She is used to helping people out who are not as smart as her.  Seeks knowledge, she is searching for her entire life for the answer to a certain question.   She speaks often without thinking and insults others.
 
-**Name.** Description.
+**Hamalthon.** - (Austin)
 
-**Name.** Description.
+**Mahana.** (Britt)
 
-**Name.** Description.
+**Nybarg.** Mason.
 
 ## Strong Start
 
