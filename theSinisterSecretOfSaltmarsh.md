@@ -23,8 +23,6 @@ The characters find themselves in the sitting room of Anders Solmor. Anders expl
 - Meet with Anders
 - Travel to the mansion. Villagers follow until they see the mansion and then leave
 - Explore the mansion.
--
--
 
 ## Secrets and Clues
 
@@ -37,7 +35,6 @@ The characters find themselves in the sitting room of Anders Solmor. Anders expl
 - Both the attic and the cellars are filled with horrifying monsters that rumble about, some use tricky human voices to lure in their victims.
 - In truth, smugglers are using the haunted mansion as a staging area. They killed Purnell Goldbland and captured his siter Helveya Goldblade but she escaped and drowned from the Sea Ghost.
 - Rumor has it that an alchemist has learned how to turn base metals into gold. No one has found his secret laboratory.
--
 
 ## Fantastic Locations
 
