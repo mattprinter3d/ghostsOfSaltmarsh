@@ -14,6 +14,8 @@
 
 ## Strong Start
 
+The Catfish feast celebration is a yearly celebration that is put on by Gellan Primewater.  Located near his mansion on the streets of the market.  There is an assortment of food, music, and drinks all paid for by Gellan.  Loud music and laughter fill the streets as people visit one with another.  The scent of cooking fish and smoke fill the lantern lit streets.  Kids are running around and playing games with one another.  This is a festival that the townfolk are always looking forward to attending.  Screams and cries of townfolk are heard as people begin to scatter away from Gellans mansion.  As people scatter away, a [Ghoul](https://www.dndbeyond.com/monsters/ghoul) can be seen dragging a corpse out of the water and towards the road. 
+
 Woman's body washed up on shore dressed in prisoner's rags and with marks of being bound hand and foot. She was the sister of a knight. The two of them planned to go to the haunted mansion to get the alchemist's gold.
 
 The characters find themselves in the sitting room of Anders Solmor. Anders explains that the pressure between the traditionalists and loyalists is coming to a head which is why he brought them up as the ones to investigate the murder. The servant serves the characters the drinks of their choice.
@@ -42,8 +44,6 @@ The characters find themselves in the sitting room of Anders Solmor. Anders expl
 
 ## Important NPCs
 
-**Anders Solmor.** Neutral Councilmember. Young noble orphan of rich parents. Father died at sea. Mother died of a wasting disease. Direct friend with Mac and Bleth. Mabye Dav and Krovel? Worked on Solmor ships? Does Solmor pay Dave's stripend? Thriven knows Mac and Skyler knows Bleth.
-
 **Eda Oweland.** Female human, Traditionalist senior member of the town council. Short gray hair. Face shows a life lived outdoors. Swears when angry. Standing up to her can gain her respect. Trying to flatter her gains her contempt.
 
 **Gellan Primewater.** Male human, Traditionalist. Well spoken, older with fancy clothes. He has made his fortune through smuggling. His textile and lumber exports are a cover for his smuggling operation. Very greedy.
@@ -52,7 +52,7 @@ The characters find themselves in the sitting room of Anders Solmor. Anders expl
 
 **Manistrad Copperlocks** Female dwarven woman, Loyalist. She runs the mining outfit from the edge of town. Was once a fearsome warrior. Placed into the council by royal decree. Very impatient towards the Traditionalist members on the council.
 
-**Anders Solmor** Young human male. Inherited his family's fleets when his mother Petra died. Fishing industry supports him. He is somewhat of a folk hero. He is against smuggling.
+**Anders Solmor** Young human male. Inherited his family's fleets when his mother Petra died of a wasting disease.  Father died at sea. Fishing industry supports him. He is somewhat of a folk hero. He is against smuggling.
 
 **Skerrin Wavechaser** Male human. He is a secret scarlet brotherhood agent. Tall, lean and tan with short silver hair. Speaks in precise, measured statements.
 
